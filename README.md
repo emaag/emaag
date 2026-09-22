@@ -3,9 +3,7 @@
 ## Table of Contents
 
 - [Highlights](#highlights)
-- [Demo Projects](#demo-projects)
 - [WordPress](#wordpress)
-- [Future Categories](#future-categories)
 
 ## Highlights
 
@@ -20,17 +18,8 @@ A selection of projects that best represent my work — from personal builds to 
 - **[S4L Booking API](https://github.com/emaag/s4l-booking-api)** — A performant REST API that maximizes apartment booking profits using dynamic programming (weighted interval scheduling), built for a coding challenge.
 - **[iseazy](https://github.com/emaag/iseazy)** — A Laravel-based inventory/store microservice with a full CRUD API, migrations, seeders, tests, and CI, built for a technical assessment.
 
-## Demo Projects
-
-- **Demo Project 1**: Short description of demo. [Link to demo](#)
-- **Demo Project 2**: Short description of demo. [Link to demo](#)
-
 ## WordPress
 
-- **WordPress Site 1**: Description of WordPress project. [Link to site](#)
-
-## Future Categories
-
-- This section is reserved for additional categories and projects as they arise. Expand as needed!
+- **[Course Discovery](https://github.com/emaag/course-discovery)** — A domain-modelled course search and filtering system, built as a WordPress plugin for an Oxford International Education Group pre-interview exercise.
 
 Feel free to explore my repositories and reach out if you have any questions!
